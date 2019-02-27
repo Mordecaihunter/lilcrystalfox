@@ -1,0 +1,35 @@
+* {
+	font-family: 'Laila', serif;
+}
+
+.navbar-item span {
+	font-family: 'Pacifico', cursive;
+}
+
+.hero.has-bg-img {
+	background: url('assets/banner.jpeg') center center;
+	background-size: cover;
+}
+
+.hero-body {
+	text-shadow: 0px 0px 16px #9b7eb6;
+}
+
+body,
+.page-content {
+	background: #594a73;
+	height: 100vh;
+}
+
+.avatar {
+	margin-bottom: -64px;
+}
+
+.avatar img {
+	border-top-left-radius: 64px;
+	border-bottom-right-radius: 64px;
+}
+
+.top-margin {
+	margin-top: 32px;
+}
